@@ -1,4 +1,4 @@
 trading
 =======
 
-trading projects git
+trading projects
